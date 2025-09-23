@@ -3,10 +3,18 @@ background-color: #E8DCC4;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 color:#4A2E2A;
 text-align: center;
+padding: 100px;
 }
 .box{
   background-color: #D9C7A3;
   border: 2px solid #A8B5A2;
   padding: 10px;
   margin: 10px;
+}
+
+.instruction{
+  text-align: left;
+}
+.instruction h2{
+  text-align: center;
 }
