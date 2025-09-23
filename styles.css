@@ -1,22 +1,10 @@
 body{
 background-color: #E8DCC4;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-h1 {
-  color:#4A2E2A;
-  text-align: center;
-}
-h2 {
-  color:#4A2E2A;
-  text-align: center;
-}
-li {
-  color:#4A2E2A;
+color:#4A2E2A;
+text-align: center;
 }
 .box{
-  ruby-align: center;
-  width: 500px;
-  height: auto;
   background-color: #D9C7A3;
   border: 2px solid #A8B5A2;
   padding: 10px;
